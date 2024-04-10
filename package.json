@@ -39,9 +39,9 @@
     "history": "4.10.1",
     "html-webpack-plugin": "3.2.0",
     "json-rules-engine": "5.0.3",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "mini-css-extract-plugin": "0.9.0",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.3",
     "postcss-loader": "3.0.0",
     "react": "16.12.0",
     "react-bootstrap-sweetalert": "5.1.9",
@@ -65,9 +65,9 @@
     "babel-eslint": "10.0.3",
     "eslint": "6.8.0",
     "eslint-plugin-react": "7.18.0",
-    "husky": "4.2.5",
+    "husky": "4.3.8",
     "react-hot-loader": "4.12.20",
     "redux-devtools-extension": "2.13.8",
-    "webpack-dev-server": "3.10.1"
+    "webpack-dev-server": "5.0.4"
   }
 }
